@@ -1,7 +1,7 @@
 
-# cpp_starter_template
+# Leetcode
 
-This is a template project to have as a base for new projects based on the C++ programming language
+This is a project where I will share my solutions to leetcode problems solved in c++
 
 ## Tools used by this project
 
